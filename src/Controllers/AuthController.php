@@ -2,7 +2,7 @@
 
 namespace App\Controllers;
 
-use App\Classes\DB;
+use App\Classes\DB\Database;
 use App\Interfaces\BaseController;
 use App\Services\AuthService;
 

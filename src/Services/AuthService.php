@@ -2,7 +2,7 @@
 
 namespace App\Services;
 
-use App\Classes\DB;
+use App\Classes\DB\Database;
 
 class AuthService
 {
